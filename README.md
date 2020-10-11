@@ -1,2 +1,2 @@
-# Named_Entity_Recognition
-Named Entity Recognition Using LSTMs
+# Named Entity Recognition
+
